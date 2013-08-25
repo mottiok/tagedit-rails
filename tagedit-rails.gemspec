@@ -6,10 +6,10 @@ require 'tagedit/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "tagedit-rails"
   spec.version       = Tagedit::Rails::VERSION
-  spec.authors       = ["Matthew"]
+  spec.authors       = ["Matthew Oklander"]
   spec.email         = ["mottiokla@gmail.com"]
-  spec.description   = 'Write a gem description'
-  spec.summary       = 'Write a gem summary'
+  spec.description   = 'This gem provides Tagedit extension for your Rails 3.2.6+ application.'
+  spec.summary       = 'Use Tagedit with Rails 3.2.6+'
   spec.homepage      = "http://www.o-sandbox.com"
   spec.license       = "MIT"
 
