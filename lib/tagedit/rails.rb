@@ -2,6 +2,7 @@ require "tagedit/rails/version"
 
 module Tagedit
   module Rails
-    # Your code goes here...
+    class Engine < ::Rails::Engine
+    end
   end
 end
